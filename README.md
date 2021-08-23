@@ -1,4 +1,4 @@
-# flutter_animated_text
+# Flutter Animated Text
 
 A new Flutter project.
 
