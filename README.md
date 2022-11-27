@@ -1,6 +1,6 @@
 # Flutter Animated Text
 
-A new Flutter project.
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Eor5vSXImP8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Eor5vSXImP8)
 
 ## Getting Started
 
